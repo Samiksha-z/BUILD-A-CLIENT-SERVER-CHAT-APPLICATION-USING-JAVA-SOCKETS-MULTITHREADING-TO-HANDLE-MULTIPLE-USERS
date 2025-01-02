@@ -33,5 +33,6 @@ Threads allow simultaneous message handling, enabling real-time interaction.
 
 # OUTPUT OF TASK:  
 
-
+![chatclient](https://github.com/user-attachments/assets/617f13a7-618b-4107-bfb3-2809540dd51f)
+![chatserver](https://github.com/user-attachments/assets/472a930f-874a-4b69-8454-7cd7a793556f)
 
